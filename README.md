@@ -16,5 +16,5 @@ The game provides feedback in terms of **bulls** and **cows** after each guess.<
 3. Clear feedback system
 
 ## 🗣️ Feedback
-If you find any bugs, have feature suggestions, feel free to open an Issue or reach out to me.<br>
+If you find any bugs, have any feature suggestions, feel free to open an Issue or reach out to me.<br>
 Your feedback makes this project better! 😊
