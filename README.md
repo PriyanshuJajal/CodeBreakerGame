@@ -1,6 +1,6 @@
 # Code Breaker Game 🎯
 A fun terminal-based number guessing game using Python, where the player must guess a secret 4-digit code within a limited number of attempts.<br>
-The game provides feedback in terms of **bulls** and **cows** after each guess.<br>
+The game also provides feedback in terms of **bulls** and **cows** after each guess.<br>
 
 ## 🧠 Game Rules <br>
 - The computer randomly generates a 4-digit secret code. <br>
